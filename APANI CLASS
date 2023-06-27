@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apani Kaksha</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+    
+    <header>
+       <h1>Apani Kaksha</h1> 
+    </header>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">namsate
+    
+        <a href="#">Home</a>
+        <a href="#">College Review</a>
+        <a href="#">Course </a>
+        <a href="#">Study materails</a>
+        <a href="#">Login/signupp</a>
+    </nav>
+    <main>
+        <section>
+            <h2>course </h2>
+            <video src="video.mp4" width="33%" poster="photo.jpg" controls></video>
+            <video src="video.mp4" width="33%" poster="photo.jpg" controls></video>
+            <video src="video.mp4" width="33%" poster="photo.jpg" controls></video>
+            <br>
+            <br>
+            <br>
+            <video src="video.mp4" width="33%" poster="photo.jpg" controls></video>
+            <video src="video.mp4" width="33%" poster="photo.jpg" controls></video>
+            <video src="video.mp4" width="33%" poster="photo.jpg" controls></video>
+            </section>
+            <section>
+                <h2>College reviews</h2>
+                <iframe width="33%" height="315" src="https://www.youtube.com/embed/yu5IYO0fcS8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                <iframe width="33%" height="315" src="https://www.youtube.com/embed/yu5IYO0fcS8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                <iframe width="33%" height="315" src="https://www.youtube.com/embed/yu5IYO0fcS8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            </section>
+            <section>
+                <h2>Study materials</h2>
+                <a target="_blank" href="dms.pdf"><img src="photo.jpg" width="24%" height="60%"></a>
+                <a target="_blank" href="dms.pdf"><img src="photo.jpg" width="24%" height="60%"></a>
+                <a target="_blank" href="dms.pdf"><img src="photo.jpg" width="24%" height="60%"></a>
+                <a target="_blank" href="dms.pdf"><img src="photo.jpg" width="24%" height="60%"></a>
+            </section>
+            <section>
+                <h2>OUR Founders</h2>
+                <img src="photo.jpg" alt="this is harsh sing baghel" width="33%">
+                <h3>Harsh Singh</h3>
+                <a href="https://www.linkedin.com/in/harsh-singh-06672621b/">Linkdin</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="https://github.com/Harshsingh2340">Github</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                
+
+            </section>
+            <footer>
+                <a href="#">FAQ</a>
+                <a href="#">Contact us</a>
+                <a href="#">Terms of use</a>
+                <a href="#">Privacy Policy</a>
+                 <a href="#">Refund Policy</a>
+                <a class="copyright" href="#">&copy; 2022 |Harsh Singh</a>
+            </footer>
+            <hr>
+            /*<table rules="all" border="1" >
+                <thead>
+                <tr>
+                <th>Subject</th>
+                <th>Theory</th>
+                <th>Practical</th>
+                <th>Total Marks</th>
+                <th>Grades</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>English</td>
+                    <td>75</td>
+                    <td>-</td>
+                    <td>75</td>
+                    <td>81</td>
+                    </tr>
+                    <tr>
+                    <td>Physics</td>
+                    <td>85</td>
+                    <td>-</td>
+                    <td>65</td>
+                    <td>81</td>
+                    </tr>
+                    <tr>
+                        <td>Chemistry</td>
+                        <td>95</td>
+                        <td>-</td>
+                        <td>85</td>
+                        <td>91</td>
+                        </tr>
+                        <tr>
+                            <td>Maths</td>
+                            <td>45</td>
+                            <td>-</td>
+                            <td>65</td>
+                            <td>61</td>
+                            </tr>
+                            </tbody>
+                            <tfoot>
+                                <th colspan="5">Result:Pass</th>
+                            </tfoot>
+
+
+                </tr>
+            </tbody>
+            </table>*/
+    </main>
+    
+</body>
+</html>
