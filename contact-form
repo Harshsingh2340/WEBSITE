@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact form</title>
+    <link ref="stylesheet" href="style1.css">
+    </head>
+    <body>
+    
+    <div class ="conatiner">
+      <form action="" methods="get">
+        <p>
+    <h1 id="main">Contact Form</h1>
+    Please fill all the texts  in the fields.</p> 
+      
+    
+  
+  <p>Your Name :* <input type="text"  name="name" placeholder="Your Full Name" required>
+  
+  <p>Your Email :*
+  <input type="email" name="email" placeholder="Valid Email Address" required ></p>
+  
+  <p>Message :*
+  <input type="message" name="message" placeholder="your message to us" cols="100" row="8" required>
+  
+  <p>Subject*
+  <select name="card_type" id="card_type"  required>
+    <option value="">Inqury type</option
+>
+    <option valur="Jobs Inqury">Job Inqury</option>
+    <option value="Application status">
+      Application status</option>
+    <option value="Ticket Inquriy">Ticket Inquriy</option>
+    </select>
+      </p>
+      
+  <input type ="submit" value=
+"Send">  
+    </div>
+  </body>
+  </html>
